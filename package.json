@@ -1,0 +1,17 @@
+{
+  "name": "sass2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "http://vinhphat493.github.io/HTML5-SASS2",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "lite-server": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
